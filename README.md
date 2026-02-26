@@ -52,14 +52,6 @@ llmatch/
 └── package.json
 ```
 
-## Deploy to Vercel
-
-```bash
-vercel deploy
-```
-
-Then add `ANTHROPIC_API_KEY` in your Vercel dashboard under **Settings → Environment Variables**.
-
 ## Model Coverage
 
 80+ models across 10 categories:
