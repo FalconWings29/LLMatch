@@ -22,10 +22,8 @@ npm run dev
 | Layer | Technology |
 |---|---|
 | Framework | Next.js 15 (App Router) |
-| AI | Anthropic SDK — `claude-opus-4-6` |
 | Styling | Tailwind CSS 3 + Geist fonts |
 | Language | TypeScript (strict) |
-| Deployment | Vercel (recommended) |
 
 ## Project Structure
 
